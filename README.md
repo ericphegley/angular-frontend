@@ -1,4 +1,4 @@
-# AngularFrontend code 2 new
+# AngularFrontend code 2 newLOLOLOLOL
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
